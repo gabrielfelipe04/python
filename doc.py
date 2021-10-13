@@ -356,7 +356,7 @@ print(lista2)
 
 
 #Tuplas: São IMUTAVEIS, Armazenam diversos itens e sao ordenaveis(index) normalmente
-
+'''
 tupla = ('item1', 'item2', 'item3', 'item1') # Sao feitas entre parenteses
 print(tupla)
 print(len(tupla))
@@ -365,7 +365,7 @@ print(tupla[2])
 print(tupla.count('item1')) #Mostra quantos item1 tem na tupla
 print(dir(tupla)) # Mostra as funcoes da tupla
 #tupla.append('item4') Não possui append, nem varias outras por nao ser mutavel
-print(tupla)'''
+print(tupla)
 
 
 for x in range(10):
