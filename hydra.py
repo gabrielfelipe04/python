@@ -56,14 +56,14 @@ def comando():
         comando()
 
 
-def menu():
+'''def menu():
     print('-' * 30)
     print('DIGITE UM COMANDO:')
     print('1 - Cadastrar')
     print('2 - Login')
     print('3 - Terminal')
     print('-' * 30)
-    comando()
+    comando()'''
 
 
 menu() 
